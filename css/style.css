@@ -4,10 +4,6 @@
 @font-face {
   font-family: 'Baskerville', serif;
   src: url(fonts/Baskerville.ttc) format('truetype');
-  src: url('webfont.eot'); /* IE9 Compat Modes */
-  src: url('webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('webfont.woff') format('woff'), /* Modern Browsers */
-       url('webfont.svg#svgFontName') format('svg'); /* Legacy iOS */
 }
 
 /*////////// Global Styles //////////*/
