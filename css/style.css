@@ -8,7 +8,7 @@
 
 /*////////// Global Styles //////////*/
 *, *:before, *:after { 
- box-sizing:   
+ box-sizing: border-box;  
 }
 
 body {
