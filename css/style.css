@@ -1,15 +1,11 @@
 /*////////////// Fonts //////////////*/
 
-/* link the web font used for the level 1 heading here */
 @font-face {
 	font-family: 'Baskerville';
 	src: url(../fonts/Baskerville.ttc);
 }
 
 /*////////// Global Styles //////////*/
-*, *:before, *:after { 
- box-sizing: border-box;  
-}
 
 body {
 	background: #F3EBE9;
@@ -48,7 +44,8 @@ p  {
 	font-size: 0.8em;
 }
 
-/* Write all remaining styles here */
+/*////////// Section Styles //////////*/
+
 header a {
 	color: rgb(152,173,166);
 	text-decoration: none;
